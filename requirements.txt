@@ -1,4 +1,0 @@
-prefect
-bs4
-python-dotenv
-mysql-connector-python
